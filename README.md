@@ -13,4 +13,4 @@ there are, you just keep reading until you reach end of file. Your task is to co
 4 3
 2 1  
 ```
-![](graph.png)
+![](graph.jpg)
