@@ -14,3 +14,4 @@ there are, you just keep reading until you reach end of file. Your task is to co
 2 1  
 ```
 ![](graph.jpg)
+*image via [geeksforgeeks](https://media.geeksforgeeks.org/wp-content/uploads/20220905132251/graph.jpg)*
