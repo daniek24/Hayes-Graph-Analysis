@@ -16,3 +16,10 @@ there are, you just keep reading until you reach end of file. Your task is to co
 ![](graph.jpg)
 *image via [geeksforgeeks](https://media.geeksforgeeks.org/wp-content/uploads/20220905132251/graph.jpg)*
 ![](graph(1).jpg)
+
+In this sample input, there are two connected components, outlined in red above (0,1,2 and 3,4)
+Therefore,
+### Expected Output
+```bash
+2
+```
